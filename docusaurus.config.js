@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: '0x51bit',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -72,6 +72,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
