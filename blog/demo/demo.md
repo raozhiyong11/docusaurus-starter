@@ -1,11 +1,4 @@
 ---
-slug: mdx-blog-post
-title: MDX Blog Post
-authors: [slorber]
-tags: [docusaurus]
----
-
----
 slug: demo-page
 title: Demo Page
 authors:
